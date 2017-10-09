@@ -1,12 +1,3 @@
-#general-EECS
- Awesome Courses [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-
-
-Introduction
-------------
-
-There is a lot of ~~hidden~~ treasure lying within university pages scattered across the internet. This list is an attempt to bring to light those awesome courses which make their high-quality material i.e. assignments, lectures, notes, readings & examinations available online for free.
-
 Table of Contents
 -----------------
 
